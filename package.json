@@ -1,0 +1,27 @@
+{
+  "name": "discord-ip-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaezB/discord-ip-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnaezB/discord-ip-bot/issues"
+  },
+  "homepage": "https://github.com/ArnaezB/discord-ip-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.1.1",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
